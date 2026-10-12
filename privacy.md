@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # Privacy Policy — UniFi Collector Upload
 
 **Last updated: October 12, 2026**
