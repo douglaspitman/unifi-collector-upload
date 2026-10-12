@@ -1,3 +1,7 @@
+---
+title: UniFi Collector Upload
+---
+
 # UniFi Collector Upload
 
 UniFi Collector Upload is a personal application for securely transferring home infrastructure monitoring reports to the owner's Google Drive account.
